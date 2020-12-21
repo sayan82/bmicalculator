@@ -7,7 +7,7 @@ This application helps people check the probability of being attacked by Covid-1
 
 Home Screen           |  Log in           |  Signup           |  Calculator          
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](Landing.png)  |  ![Login](login.png) | ![signup](signup.png) | ![bmicalculator](home.png) 
+![home](Landing.png)  |  ![Login](login.png) | ![signup](signup.png) | ![bmicalculator](home.png) 
 
 Result
 :-------------------------:
