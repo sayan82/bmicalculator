@@ -5,10 +5,8 @@ This application helps people check the probability of being attacked by Covid-1
 
 # ScreenShots
 
-Home Screen           |  Imformation Taking           |  Result           
+Home Screen           |  Log in           |  Signup           |  Calculator           |  Result          
 :-------------------------:|:-------------------------:|:-------------------------:
-![](Landing.png)  |  ![Info](qna.png) | ![result](Result.png)
+![](Landing.jpg)  |  ![Login](login.jpg) | ![signup](signup.jpg) | ![bmicalculator](signup.jpg) | ![signup](result.jpg)
 
-Precautions                    
-:-------------------------:
-![](giffile.gif)
+
